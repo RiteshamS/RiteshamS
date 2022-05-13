@@ -8,7 +8,7 @@ pipeline {
             }
             steps {
                 script {
-                    app = docker.build("thecyberbaby/clouoric-api")
+                    app = docker.build("ritesham/poc-1")
                     app.inside {
                         sh 'echo $(curl localhost:8080)'
                     }
@@ -21,7 +21,7 @@ pipeline {
             }
             steps {
                 script {
-                    docker.withRegistry('https://registry.hub.docker.com', 'thecyberbaby-dockerhub') {
+                    docker.withRegistry('https://registry.hub.docker.com', 'docker-jenkins') {
                         app.push("${env.BUILD_NUMBER}")
                         app.push("latest")
                     }
