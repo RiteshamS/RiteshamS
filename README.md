@@ -8,8 +8,7 @@ const user: GithubUser {
   name: 'Ritesham Shastri',
   location: 'UAE 🇦🇪/ IN🇮🇳',
   role: 'Technology Leader- Cloud | DevOps | SRE | Regional Mentor at AIM, NITI Aayog, Govt. of India',
-  stack: [Internet of Things (IoT)','Electronics','
-Embedded Systems','Real-Time Operating Systems (RTOS)','Team Management','Project Leadership','Agile Methodologies','Artificial Intelligence (AI)','Business Strategy'],
+  stack: [Internet of Things (IoT)','Embedded Systems','Real-Time Operating Systems (RTOS)','Team Management','Project Leadership','Agile Methodologies','Artificial Intelligence (AI)','Business Strategy'],
   additionalStack: ['Python', 'C','Git','Linux','Docker','kubernetes','Jenkins','Ansible','Terraform','Prometheus','Grafana'.'Loki-promtail','ELK','AWS'],
   contact: 'ritesham.shastri@cloudoric.com'
 }
@@ -22,7 +21,7 @@ Embedded Systems','Real-Time Operating Systems (RTOS)','Team Management','Projec
 </div>
 ---
 
-### 👨🏻‍💻 About Me :
+### 👨🏻‍💻 My Routine :
 ☑️ Design of client’s Cloud environments with a focus on AWS , Delivery of customer Cloud Strategies, aligned with customer’s business objectives and with a focus on Cloud Migrations.
 
 ☑️ Provide leadership in infrastructure migration methodologies and techniques including mass application movements into the cloud including implementation of AWS within in large regulated enterprise environments.
