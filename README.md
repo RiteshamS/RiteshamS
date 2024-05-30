@@ -17,7 +17,7 @@ const user: GithubUser {
 
 
 <div align="center">
-  <img src="https://media.istockphoto.com/id/1901042516/vector/laptop-computer-cloud-computing-icon-design.jpg?b=1&s=170667a&w=0&k=20&c=Q79xAN1W26n75l8ukgDCmdwVo-EFhxTb4aF5PmgmjUc=" width="900" height="500"/>
+  <img src="https://media1.tenor.com/m/Aeow_pRxxT4AAAAC/apple-i-mac.gif" width="900" height="500"/>
 </div>
 ---
 
