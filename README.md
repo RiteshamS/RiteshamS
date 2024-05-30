@@ -23,15 +23,11 @@ Embedded Systems','Real-Time Operating Systems (RTOS)','Team Management','Projec
 ---
 
 ### 👨🏻‍💻 About Me :
-I'm passionate about driving efficiency and scalability in software development through innovative DevOps practices ♾️
+# Design of client’s Cloud environments with a focus on AWS , Delivery of customer Cloud Strategies, aligned with customer’s business objectives and with a focus on Cloud Migrations.
 
--   ✔: Leveraging DevOps Experience, skilled in Docker, Kubernetes, Ansible, Terraform, Helm, Jenkins and other DevOps tools.
+# Provide leadership in infrastructure migration methodologies and techniques including mass application movements into the cloud including implementation of AWS within in large regulated enterprise environments.
 
--   ✔: Published tech articles and POCs on Medium.
-   
--   ✔: Eager to contribute to an innovative environment
-
--   ✔: In my free time, read Books and tech articles.
+# As a technology leader, responsible to ensure industry best practice is being adopted in terms of Infrastructure Architecture; Continuous Delivery and Integration; Deployment; Security; Support & Automation.
   
   ---
 
