@@ -23,11 +23,11 @@ Embedded Systems','Real-Time Operating Systems (RTOS)','Team Management','Projec
 ---
 
 ### 👨🏻‍💻 About Me :
-#### Design of client’s Cloud environments with a focus on AWS , Delivery of customer Cloud Strategies, aligned with customer’s business objectives and with a focus on Cloud Migrations.
+☑️ Design of client’s Cloud environments with a focus on AWS , Delivery of customer Cloud Strategies, aligned with customer’s business objectives and with a focus on Cloud Migrations.
 
-#### Provide leadership in infrastructure migration methodologies and techniques including mass application movements into the cloud including implementation of AWS within in large regulated enterprise environments.
+☑️ Provide leadership in infrastructure migration methodologies and techniques including mass application movements into the cloud including implementation of AWS within in large regulated enterprise environments.
 
-#### As a technology leader, responsible to ensure industry best practice is being adopted in terms of Infrastructure Architecture; Continuous Delivery and Integration; Deployment; Security; Support & Automation.
+☑️ As a technology leader, responsible to ensure industry best practice is being adopted in terms of Infrastructure Architecture; Continuous Delivery and Integration; Deployment; Security; Support & Automation.
   
   ---
 
