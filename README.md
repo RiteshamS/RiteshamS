@@ -17,7 +17,7 @@ const user: GithubUser {
 
 
 <div align="center">
-  <img src="https://media1.tenor.com/m/Aeow_pRxxT4AAAAC/apple-i-mac.gif" width="900" height="500"/>
+  <img src="https://media.licdn.com/dms/image/D4E22AQHRtnY4K1UeCg/feedshare-shrink_800/0/1709024896869?e=2147483647&v=beta&t=w2KkIf21mClOU399uzAI-FWNtDXAhBL2gQlNtY0gdso" width="900" height="500"/>
 </div>
 ---
 
