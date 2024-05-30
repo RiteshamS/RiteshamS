@@ -1,5 +1,5 @@
 
-  ### Hi there
+  ### Hi there!
  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 
 
@@ -17,7 +17,7 @@ const user: GithubUser {
 
 
 <div align="center">
-  <img src="https://media.licdn.com/dms/image/D4D12AQFJ4q9JTSOB7g/article-cover_image-shrink_720_1280/0/1694019371639?e=2147483647&v=beta&t=3LzoT6XE3Ev3fkho8TY2xvY6lwO_VTBYUj52RJ5pcw8" width="900" height="500"/>
+  <img src="https://github.githubassets.com/assets/profile-first-repo-fe2c6ecdd20b.svg" width="900" height="500"/>
 </div>
 ---
 
