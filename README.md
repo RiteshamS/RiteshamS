@@ -17,7 +17,7 @@ const user: GithubUser {
 
 
 <div align="center">
-  <img src="https://images.squarespace-cdn.com/content/v1/5e9e61184a2e5f4b613d5853/1589203392368-I32K6DOE56X7D0N3PS9H/IoT.gif" width="900" height="500"/>
+  <img src="https://www.shutterstock.com/image-vector/digital-technologies-continuous-one-line-600nw-2285510385.jpg" width="900" height="500"/>
 </div>
 ---
 
