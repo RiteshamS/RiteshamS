@@ -18,7 +18,7 @@ Embedded Systems','Real-Time Operating Systems (RTOS)','Team Management','Projec
 
 
 <div align="center">
-  <img src="https://media.licdn.com/dms/image/C4D03AQHS6GePWU15uA/profile-displayphoto-shrink_800_800/0/1651693735381?e=1722470400&v=beta&t=_eLjqQP8AfcvJhkgsuhvZgfNjmywNbFFMA3QqQfFyCY" width="600" height="500"/>
+  <img src="https://media.licdn.com/dms/image/D4D12AQFJ4q9JTSOB7g/article-cover_image-shrink_720_1280/0/1694019371639?e=2147483647&v=beta&t=3LzoT6XE3Ev3fkho8TY2xvY6lwO_VTBYUj52RJ5pcw8" width="600" height="500"/>
 </div>
 ---
 
